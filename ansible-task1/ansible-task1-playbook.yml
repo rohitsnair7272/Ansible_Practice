@@ -1,0 +1,7 @@
+---
+- name: Tasks1
+  hosts: all
+  become: yes
+  remote_user: ubuntu
+  roles:
+    - custom-role
