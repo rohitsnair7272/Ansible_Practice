@@ -1,2 +1,2 @@
 [default]
-18.198.3.146 ansible_ssh_private_key_file=/Users/rahulwagh/.ssh/aws_ec2_terraform
+100.102.37.135 ansible_user=unixadmin ansible_ssh_private_key_file=/home/rohit/.ssh/ansible_key
